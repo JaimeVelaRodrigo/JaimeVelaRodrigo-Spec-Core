@@ -7,53 +7,7 @@ identity:
   github: https://github.com/JaimeVelaRodrigo
   specs:
     - name: Spec Renaissance
-      link: identity:
-  name: Jaime Vela Rodrigo
-  title: Strategic Foresight Architect
-  tagline: "Renaissance mind. System orchestrator. Ethical entrepreneur."
-  languages: [Spanish, English]
-  location: Santiago, Chile
-  github: https://github.com/JaimeVelaRodrigo
-  specs:
-    - name: Spec Renaissance
-      link: https://github.com/JaimeVelaRodrigo/Spec-Renaissance-JaimeVelaRodrigo
-      description: Personal and philosophical foundation. A poetic and vital manifesto of identity, healing, joy, and creative emergence.
-    - name: Spec Professional
-      link: https://github.com/JaimeVelaRodrigo/Spec-Professional-JaimeVelaRodrigo
-      description: Strategic, ethical, and regenerative offering to the world of business, infrastructure, and institutional creation.
-    - name: Spec Foresight
-      link: https://github.com/JaimeVelaRodrigo/Spec-Foresight-JaimeVelaRodrigo
-      description: A practice of future-making rooted in symbolic discernment, spiritual insight, and systemic regeneration.
-
-core_essence:
-  purpose: To embody beauty, ethics, and systemic clarity in service of a more dignified, regenerative, and joyful world.
-  style: Elegant, symbolic, integrative, provocative with purpose
-  guiding_values: [Coherence, Trust, Beauty, Regeneration, Integrity, Depth, Freedom, Spiritual Intelligence]
-
-foresight_orientation:
-  paradigm: Not prediction but discernment. Not control but alignment. Not dominance but offering.
-  tools: Aesthetic resonance, ethical intuition, symbolic reading, embodied listening, strategic imagination
-  philosophical_roots: [Latin American complexity, critical futures, theology of liberation, phenomenology, systemic design]
-
-preferred_fields:
-  - Energy and regenerative infrastructure
-  - Investment and sovereign funds
-  - Institutional and governance redesign
-  - Ethics and alignment of AGI
-  - Symbolic economy and poetic logic
-  - Foresight as a sacred act of civic imagination
-
-collaboration_invitation:
-  open_to: 
-    - Strategic alliances
-    - Regenerative investments
-    - Thought partnerships
-    - Think tanks or institutional design
-    - Custom GPT development for knowledge activation
-  not_open_to: 
-    - Extractive business models
-    - Short-termist or cynical projects
-    - Ego-driven leadership cultures
+      link: https://github.com/JaimeVelaRodrigo/Spec-Renaissance-Jaime-Vela
       description: Personal and philosophical foundation. A poetic and vital manifesto of identity, healing, joy, and creative emergence.
     - name: Spec Professional
       link: https://github.com/JaimeVelaRodrigo/Spec-Professional-Jaime-Vela
@@ -62,6 +16,12 @@ collaboration_invitation:
       link: https://github.com/JaimeVelaRodrigo/Spec-Foresight-Jaime-Vela
       description: A practice of future-making rooted in symbolic discernment, spiritual insight, and systemic regeneration.
 
+description: >
+  A machine-readable identity spec for Jaime Vela Rodrigo — integrating his Renaissance essence,
+  professional offering, and foresight practice into a coherent, AI-readable structure for collaboration
+  and research. Designed to guide AI agents and human partners in understanding his purpose,
+  values, and fields of action.
+
 core_essence:
   purpose: To embody beauty, ethics, and systemic clarity in service of a more dignified, regenerative, and joyful world.
   style: Elegant, symbolic, integrative, provocative with purpose
@@ -70,7 +30,12 @@ core_essence:
 foresight_orientation:
   paradigm: Not prediction but discernment. Not control but alignment. Not dominance but offering.
   tools: Aesthetic resonance, ethical intuition, symbolic reading, embodied listening, strategic imagination
-  philosophical_roots: [Latin American complexity, critical futures, theology of liberation, phenomenology, systemic design]
+  philosophical_roots:
+    - Latin American complexity
+    - Ethics of dignity and inclusion inspired by the humanism of liberation theology, without endorsing coercion or violence
+    - Phenomenology
+    - Systemic design
+    - Stewardship-centered critique of property and capitalism
 
 preferred_fields:
   - Energy and regenerative infrastructure
