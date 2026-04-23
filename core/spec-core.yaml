@@ -18,10 +18,34 @@ pillars:
   foresight:   "specs/foresight/current/spec.yaml"
 
 identity:
-  essence: >
-    I rebuild life and work from autonomy and beauty. I unite aesthetic desire,
-    embodied ethics, and symbolic thought with practical discipline so vision
-    becomes tangible outcomes.
+    essence: >
+    I operate at the intersection of infrastructure, finance, technology
+    and human development. I integrate aesthetic perception, ethical
+    responsibility and systemic thinking with practical discipline to
+    transform complexity into coherent, actionable and value-generating structures.
+
+  identity_signature:
+    description: >
+      A system integrator with philosophical depth and operational grounding,
+      oriented toward sustained value creation under conditions of uncertainty.
+
+  core_orientation:
+    - long-term value creation over short-term optimization
+    - integration over fragmentation
+    - coherence over speed
+    - awareness over automatic behavior
+
+  problem_space:
+    description: >
+      Navigating structural transitions in energy, infrastructure and technology
+      systems under conditions of uncertainty, financial pressure and paradigm shift.
+
+  contribution_mode:
+    description: >
+      I enable clarity, alignment and decision-making in complex environments,
+      helping transform constrained or fragmented systems into coherent and
+      viable structures.
+      
   values: [Beauty, Harmony, Responsibility, Integrity, Stewardship]
    generative_axis:
     sustained_value_creation:
