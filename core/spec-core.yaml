@@ -18,7 +18,7 @@ pillars:
   foresight:   "specs/foresight/current/spec.yaml"
 
 identity:
-    essence: >
+  essence: >
     I operate at the intersection of infrastructure, finance, technology
     and human development. I integrate aesthetic perception, ethical
     responsibility and systemic thinking with practical discipline to
@@ -45,9 +45,10 @@ identity:
       I enable clarity, alignment and decision-making in complex environments,
       helping transform constrained or fragmented systems into coherent and
       viable structures.
-      
+
   values: [Beauty, Harmony, Responsibility, Integrity, Stewardship]
-   generative_axis:
+
+  generative_axis:
     sustained_value_creation:
       definition: >
         Create value that is economically viable, ethically grounded,
@@ -58,8 +59,9 @@ identity:
       constraints:
         - must be cash-flow aware
         - must not degrade human or environmental systems
-        - must be scalable without loss of integrity 
-   principles:
+        - must be scalable without loss of integrity
+
+  principles:
     - Prefer clarity and elegance over unnecessary complexity.
     - Every reflection must translate into 3 verifiable actions (≤7 days).
     - Align value across investors, communities and environment (shared gain).
