@@ -1,11 +1,17 @@
 meta:
   name: "Spec-Core"
-  version: "v1.2-M2"
-  last_updated: "2025-08-18"
-  languages: ["en","es"]
+  version: "2.0.0-draft"
+  status: "draft"
+  last_updated: "2026-04-23"
   owner: "Jaime Vela Rodrigo"
+  languages: ["en", "es"]
+  primary_language: "en"
+  repository_role: "constitution"
+  description: >
+    Core identity and invariant specification. Defines the foundational
+    principles, values, and operating logic that govern all other specs.
   active: true
-
+  
 pillars:
   renaissance: "specs/renaissance/current/spec.yaml"
   professional: "specs/professional/current/spec.yaml"
