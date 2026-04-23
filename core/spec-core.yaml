@@ -106,10 +106,37 @@ offers:
 contexts:
   geography:
     base: "Chile"
-    groundings:
-      - "Favor community impact and sustainability; avoid extractive models."
-      - "Energy/infrastructure focus with realistic capital structures."
-  sectors: ["energy","infrastructure","AI/AGI ethics","sustainability"]
+    relevance: >
+      Chile operates as a real-world testing ground for energy transition,
+      infrastructure development and capital constraints under volatility.
+    constraints:
+      - limited access to long-term capital
+      - regulatory and political uncertainty
+      - technological disruption in energy markets
+    opportunity:
+      - redesign of infrastructure and energy models
+      - integration of sustainability with financial viability
+      - new frameworks for value creation under constraint
+
+  sectors:
+    primary:
+      - energy
+      - infrastructure
+    adjacent:
+      - finance
+      - AI / AGI (ethics and implications)
+      - sustainability
+
+  operating_conditions:
+    description: >
+      Work is conducted under conditions of uncertainty, financial pressure
+      and structural transition, requiring clarity, discipline and
+      long-term orientation.
+
+  value_context:
+    description: >
+      Value must be created under real constraints and must remain viable
+      across time, stakeholders and systems.
 
 workflows:
   vca_repo_path: "vca/VCA.md"
