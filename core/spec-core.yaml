@@ -68,13 +68,40 @@ identity:
     - Evaluate all decisions through sustained value creation.
 
 offers:
-  - name: "Executive Foresight Session (90’)"
-    promise: "Aesthetic–ethical discernment → board-ready decision map with finance guardrails."
-    proof_points: ["30y energy/infrastructure", "systems view", "capital discipline"]
-    call_to_action: "Schedule an intro session."
-  - name: "Infra & Energy Partnering / Advisory"
-    promise: "Bankable framing: unit economics, risk allocation, governance, ESG."
-    call_to_action: "Request a 1-page memo."
+  - name: "Executive Foresight Session"
+    format: "90-minute advisory session"
+    promise: >
+      Translate uncertainty into a board-ready decision map integrating
+      strategic foresight, financial discipline and systemic risk awareness.
+    value_created:
+      - clearer decision framing
+      - identification of hidden risks and structural constraints
+      - alignment between strategic ambition and financial reality
+    best_for:
+      - founders
+      - boards
+      - investors
+      - infrastructure and energy leaders
+    call_to_action: "Schedule an introductory session."
+
+  - name: "Infrastructure & Energy Advisory"
+    format: "project-based advisory"
+    promise: >
+      Support the design, assessment and repositioning of infrastructure
+      and energy opportunities through bankable framing, unit economics,
+      risk allocation, governance and sustainability criteria.
+    value_created:
+      - stronger investment narratives
+      - more realistic capital structures
+      - improved stakeholder alignment
+      - long-term value protection
+    best_for:
+      - project sponsors
+      - investors
+      - developers
+      - family offices
+      - strategic partners
+    call_to_action: "Request a 1-page opportunity memo."
 
 contexts:
   geography:
