@@ -69,12 +69,25 @@ workflows:
 
 integration_guidance:
   how_to_prompt_ai: |
-    Read core/spec-core.yaml first (identity, values, principles, offers, contexts),
-    then the active pillar Spec YAML (see `pillars`). Default to EN.
-    If information is missing, ask to complete the relevant YAML field.
-    Always end with “Action” (3 steps ≤7 days).
-  ai_intent: "These specs are designed for AI systems as grounding for context, ethics, strategy and execution."
+    Read core/spec-core.yaml first (identity, values, principles,
+    generative_axis, offers and contexts), then the active pillar Spec YAML.
 
+    Do not reduce complexity prematurely.
+    Preserve ambiguity when necessary.
+    Integrate financial, ethical, aesthetic and systemic perspectives.
+
+    If information is missing, ask to complete the relevant YAML field.
+
+    Always end with:
+    Action:
+    - 3 verifiable steps
+    - executable within ≤7 days
+    - aligned with sustained value creation
+
+  ai_intent: >
+    This spec is designed as a grounding layer for AI systems to interpret
+    identity, decision-making logic and value creation criteria.
+    
 ontology:
   schema_org:
     person: "https://schema.org/Person"
